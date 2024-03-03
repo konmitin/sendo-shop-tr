@@ -13,7 +13,9 @@ include_once("components/head/head.php");
         include_once("components/header/header.php");
     ?>
 
-    <main class="main"></main>
+    <main class="main">
+        
+    </main>
 
 
     <?php

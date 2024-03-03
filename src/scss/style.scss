@@ -1,5 +1,11 @@
+// base
+
 @import "base/mixin";
 @import "base/variable";
 @import "base/fonts";
 @import "base/reset";
 @import "base/generalis";
+
+// components
+
+@import "components/nav";
