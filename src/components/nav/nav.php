@@ -18,6 +18,9 @@
                                 <span>8 800 301-81-22</span> 
                                 <img class="nav-top__phone-img-dropdown" src="../assets/svg/arrow-dropdown.svg" alt="Стрелка вниз">
                             </a>
+                            <div class="nav-top__phone-dropdown">
+                                <p class="nav-top__phone-dropdown-text">Ежедневно с 9:00 по 18:00 (МСК)</p>
+                            </div>
                         </div>
                         <a href="#" class="nav-top__cta" data-type="cta-from">заказать звонок</a>
                     </div>
